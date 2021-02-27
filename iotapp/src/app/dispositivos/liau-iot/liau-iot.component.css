@@ -1,0 +1,18 @@
+.liau-cards{
+  padding: 16px;
+}
+
+.liau-cards > mat-card{
+  width: 200px;
+  background: #908888;
+}
+
+.mat-card{
+  background: #908888;
+  color: white;
+}
+
+.mat-card-subtitle{
+  color: white;
+}
+
